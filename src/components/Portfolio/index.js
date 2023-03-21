@@ -41,7 +41,7 @@ function Portfolio() {
                   src={NoSql}
                   className="my-2"
                   style={{ width: "100%" }}
-                  alt="HomeBrew"
+                  alt="project"
                 />
               </a>
             </div>
